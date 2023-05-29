@@ -13,3 +13,10 @@ Employee Salary :- {self.emp_salary}""")
 
 e = Employee("Ram","Pune",20000)
 e.get_emp_info()
+
+
+val1 = 255
+
+val2 = 230
+
+print("Area of Reactangle = ",val1 * val2)
